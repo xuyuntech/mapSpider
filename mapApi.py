@@ -9,7 +9,7 @@ from urllib import request
 import json
 from openpyxl import load_workbook
 
-amap_web_key = '3ca4889dbb38a1984c64e9d720670895'
+amap_web_key = '你申请到的key'
 poi_search_url = "http://restapi.amap.com/v3/place/text"
 
 line = 1
